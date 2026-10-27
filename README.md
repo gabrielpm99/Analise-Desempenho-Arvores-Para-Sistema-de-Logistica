@@ -260,7 +260,7 @@ No pico de **500 mil registros**, a AVL exigiu mais de **48 milhões de compara�
 
 **Gabriel Pinheiro Maia**
 
-**Matrícula:** [20250036420]
+**Matrícula:** 20250036420
 
 ---
 
