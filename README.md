@@ -92,10 +92,10 @@ java -jar arvores.jar
 
 ```bash
 # 1) Clonar o projeto
-git clone [Cole aqui o link do seu repositório]
+git clone https://github.com/gabrielpm99/Analise-Desempenho-Arvores-Para-Sistema-de-Logistica
 
 # 2) Entrar na pasta do projeto
-cd [Nome da pasta do repositório]
+cd Analise-Desempenho-Arvores-Para-Sistema-de-Logistica
 
 # 3) Criar o diretório de compilação e compilar
 mkdir -p bin
